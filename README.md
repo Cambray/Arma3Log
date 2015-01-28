@@ -27,12 +27,15 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 ### Usage
 
 For TAWTonic's Altis-Life:
+
 Call the Log via this function: [[0:Text],"Arma3Log",false,false] spawn life_fnc_MP;
 
 Default Arma 3 Missions:
+
 Call the Log via this function: [[0:Text],"Arma3Log",false,false] spawn BIS_fnc_MP;
 
 Explanation:
+
 1. ..[0:Text].. = The numer decides in which log the information should go, if it can not finde the numer, the logger will put it into a deafult case 0. The text is about what should go into the log.
 2. The other stuff calls the information and sends it to the serverside loaded extenstion, which calls the dll.
 
