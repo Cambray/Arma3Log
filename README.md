@@ -1,7 +1,6 @@
 ## Arma3Log
 
 I got bored waiting for other people to develop it so i wrote my own.
-
 This is an external logging extension for arma 3 servers, written in c++ only. 
 
 
