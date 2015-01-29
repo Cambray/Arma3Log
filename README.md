@@ -5,8 +5,8 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 
 
 #### Known Servers using Arma3Log
-- [GER] Zero-One [01] http://zero-one.cc/
-- [GER] Altislife-Germany [ALG] http://www.altislife-germany.de/
+[GER] Zero-One [01] http://zero-one.cc/
+[GER] Altislife-Germany [ALG] http://www.altislife-germany.de/
 
 
 ### Features
@@ -20,6 +20,7 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 
 See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
+***
 
 #### Thanks to
 
