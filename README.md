@@ -20,6 +20,9 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 
 See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
+### Future plans
+
+See https://github.com/Arkensor/Arma3Log/wiki/incoming for some information about future releases
 
 ### Windows Requirements
 
