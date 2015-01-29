@@ -13,7 +13,7 @@ It is mainly build for Tonic's altis life, but it also supports any other arma 3
 
 - Fast and simple logging
 - Daily log roation automatism
-- Log information is splittet into diffrent logs, you can also choose only one logfile to be written.
+- Log information is splittet into different logs, you can also choose only one logfile to be written.
 - HH:MM:SS timestamps for every action that is logged
 
 
