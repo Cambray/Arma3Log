@@ -2,7 +2,7 @@
 
 I got bored waiting for other people to develop it, so i wrote my own.
 This is an external logging extension for arma 3 servers, written in c++ only.  
-It is mainly build for Tonic's altis life, but it also supports any other arma 3 server type
+It is mainly build for Tonic's altis life, but it also supports any other arma 3 server types.
 
 
 #### Known Servers using Arma3Log
