@@ -36,4 +36,4 @@ Windows 7 + Later
 
 - killzonekid for his blog posts http://killzonekid.com/
 - IamSorry from ALG for helping me with some c++ code
-- [Torndeco](https://github.com/Torndeco) for this github structure, that I have learned from
+- [Torndeco](https://github.com/Torndeco) for this Github structure, that I have learned from
