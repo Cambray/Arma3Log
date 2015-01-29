@@ -21,7 +21,7 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
 
-###Windows Requirements
+### Windows Requirements
 
 [vcredist_x86 2013](http://www.microsoft.com/en-ie/download/details.aspx?id=40784)  
 Windows Server 2008 + Later  
