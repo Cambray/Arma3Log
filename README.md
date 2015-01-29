@@ -5,7 +5,7 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 It is mainly build for Tonic's altis life, but it also supports any other arma 3 server types.
 
 
-#### Known Servers using Arma3Log
+#### Known servers using Arma3Log
 [GER] Zero-One [01] http://zero-one.cc/  
 [GER] Altislife-Germany [ALG] http://www.altislife-germany.de/  
 
@@ -14,7 +14,7 @@ It is mainly build for Tonic's altis life, but it also supports any other arma 3
 
 - Fast and simple logging
 - Dayli log roation automatism
-- Log information is splittet into diffrent logs if you want 
+- Log information is splittet into diffrent logs, you can also choose only one logfile to be written.
 - HH:MM:SS timestamps for every action that is logged
 
 
@@ -36,3 +36,4 @@ Windows 7 + Later
 
 - killzonekid for his blog posts http://killzonekid.com/
 - IamSorry from ALG for helping me with some c++ code
+- [Torndeco](https://github.com/Torndeco) for this github structure, that I have learned from
