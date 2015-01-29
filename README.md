@@ -20,7 +20,13 @@ This is an external logging extension for arma 3 servers, written in c++ only.
 
 See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
-***
+
+###Windows Requirements
+
+Windows Server 2008 + Later
+Windows 7 + Later
+
+Install vcredist_x86.exe @ http://www.microsoft.com/en-ie/download/details.aspx?id=40784
 
 #### Thanks to
 
