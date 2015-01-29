@@ -7,7 +7,6 @@ It is mainly build for Tonic's altis life, but it also supports any other arma 3
 
 #### Known servers using Arma3Log
 [GER] Zero-One [01] http://zero-one.cc/  
-[GER] Altislife-Germany [ALG] http://www.altislife-germany.de/  
 
 
 ### Features
