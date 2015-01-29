@@ -23,10 +23,11 @@ See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
 ###Windows Requirements
 
+vcredist_x86  
 Windows Server 2008 + Later  
 Windows 7 + Later  
 
-Install vcredist_x86.exe @ http://www.microsoft.com/en-ie/download/details.aspx?id=40784
+Download vcredist_x86.exe from http://www.microsoft.com/en-ie/download/details.aspx?id=40784
 
 #### Thanks to
 
