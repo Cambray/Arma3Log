@@ -23,7 +23,7 @@ See https://github.com/Arkensor/Arma3Log/wiki for instructions
 
 ### Future plans
 
-See https://github.com/Arkensor/Arma3Log/wiki/Future-releases for some information about future releases
+See https://github.com/Arkensor/Arma3Log/wiki/Upcoming-releases for some information about future releases
 
 ### Windows Requirements
 
