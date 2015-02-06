@@ -1,4 +1,4 @@
-## Arma3Log - Arma 3 server log extension C++ v2
+## Arma3Log - Arma 3 server log extension C++ v3
 
 I got bored waiting for other people to develop it, so i wrote my own.
 This is an external logging extension for arma 3 servers, written in c++ only.  
