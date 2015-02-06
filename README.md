@@ -34,5 +34,5 @@ Windows 7 + Later
 #### Thanks to
 
 - killzonekid for his blog posts http://killzonekid.com/
-- IamSorry from ALG for helping me with some c++ code
+- IamSorry and Spike from ALG for helping me with some c++ code
 - [Torndeco](https://github.com/Torndeco) for this Github structure, that I have learned from
