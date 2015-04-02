@@ -6,7 +6,7 @@ It is mainly build for Tonic's altis life, but it also supports any other arma 3
 
 
 #### Known servers using Arma3Log
-[GER] Zero-One [01] http://zero-one.cc/  
+[GER] Zero-One http://zero-one.cc/  
 
 
 ### Features
@@ -31,8 +31,6 @@ See https://github.com/Arkensor/Arma3Log/wiki/Upcoming-releases for some informa
 Windows Server 2008 + Later  
 Windows 7 + Later  
 
-#### Thanks to
+### Support
 
-- killzonekid for his blog posts http://killzonekid.com/
-- IamSorry and Spike from ALG for helping me with some c++ code
-- [Torndeco](https://github.com/Torndeco) for the Github structure, that inspired me
+If you need help with anything or if you have got any questions just visit my website for it (Click me !)[https://www.arma-modding.com/thread/15-3-1-4-x-4-0-serverside-logging-extension-arma3log/]
