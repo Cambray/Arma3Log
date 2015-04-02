@@ -33,4 +33,4 @@ Windows 7 + Later
 
 ### Support
 
-If you need help with anything or if you have got any questions just visit my website for it: https://www.arma-modding.com/thread/15-3-1-4-x-4-0-serverside-logging-extension-arma3log/
+If you need help with anything or if you have got any questions just visit my website for it: [Click me !](https://www.arma-modding.com/thread/15-3-1-4-x-4-0-serverside-logging-extension-arma3log/)
